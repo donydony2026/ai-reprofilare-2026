@@ -1,0 +1,4 @@
+git add.
+git commit - m "Ziua 1 - start AI journey"
+git branch - M main
+push 0 u origin main
